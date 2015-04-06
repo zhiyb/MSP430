@@ -1,0 +1,1 @@
+"./ascii.obj" "./main.obj" "./tft.obj" "../lnk_msp430f6659.cmd" -l"libmath.a" -l"libc.a" 

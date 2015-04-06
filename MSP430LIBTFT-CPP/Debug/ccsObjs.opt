@@ -1,0 +1,1 @@
+"./ascii.o" "./main.o" "./tft.o" -T"../msp430f6659.ld" -Wl,--start-group -l"c" -l"gcc" -Wl,--end-group 
